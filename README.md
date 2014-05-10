@@ -5,3 +5,4 @@ A graph represented by a matrix that tells you the if it is fully connected and 
 This was a hacky perl script I wrote for my algorithms class in college.
 
 Breadth first search, followed by Kruskal's algorithm for min spanning tree.
+
